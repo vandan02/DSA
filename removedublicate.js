@@ -1,3 +1,2 @@
-const remove=()=>{
-    
-}
+const remove=()=>km0
+
