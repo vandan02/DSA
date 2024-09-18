@@ -10,4 +10,4 @@ for (let i=1; i<arr.length; i++){
     }
    
 }
-console.log(buy: ${buy} profit: ${sell});
+console.log(`buy: ${buy} profit: ${sell}`);
